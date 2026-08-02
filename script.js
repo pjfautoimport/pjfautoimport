@@ -2,7 +2,7 @@
 
 // TODO: Crea un formulario en Formspree y sustituye este placeholder por el endpoint real.
 // Configura Formspree para reenviar los mensajes a pjfautoimport@gmail.com.
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/ID_DEL_FORMULARIO';
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xvzeezqe';
 
 const header = document.querySelector('#site-header');
 const menuToggle = document.querySelector('.menu-toggle');
